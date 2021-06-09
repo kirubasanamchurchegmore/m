@@ -1,0 +1,58 @@
+h1.en {
+    font-family: 'Roboto Slab';
+    font-size: 2em
+}
+
+h1.ta {
+    font-family: 'Mukta Malar';
+    font-size: 2em
+}
+
+h2.locta {
+    font-family: 'Hind Madurai';
+    font-size: 1em;
+}
+
+h2.locen {
+    font-family: 'Roboto';
+    font-size: 1em;
+}
+
+ta {
+    font-family: 'Mukta Malar';
+    font-size: 1em
+}
+
+body {
+    font-family: 'Roboto';
+    font-size: 1em;
+    margin: 2em;
+    background-color: #fffdbd;
+}
+
+div.title {
+    font-size: 1.25em;
+}
+
+div.links {
+    font-size: 1.1em;
+    padding: 0.75em;
+    color: black
+}
+
+a:visited, a {
+    color: brown;
+    text-decoration: none;
+    font-weight: bold;  
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div {
+    border: 3px solid brown;
+    text-align: center;
+    padding: 1em;
+}
+
